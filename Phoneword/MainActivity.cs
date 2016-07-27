@@ -21,7 +21,7 @@ namespace Phoneword
 			// Our code will go here
 			EditText phoneNumberText = FindViewById<EditText>(Resource.Id.PhoneNumberText);
 			Button translateButton = FindViewById<Button>(Resource.Id.TranslateButton);
-			Button callButton = FindViewById<Button>(Resource.Id.CallButton)error;
+			Button callButton = FindViewById<Button>(Resource.Id.CallButton);
 
 			// Disable the "Call" button
 			callButton.Enabled = false;
