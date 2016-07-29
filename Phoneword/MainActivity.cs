@@ -15,7 +15,7 @@ namespace Phoneword
 		{
 			base.OnCreate(bundle);
 
-			// Set our view from the "main" layout resource 
+			// Set our view from the "main" layout resource
 			SetContentView(Resource.Layout.Main);
 
 			// Our code will go here
